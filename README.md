@@ -9,6 +9,8 @@ Athena's Algorithm Works as Following:
 3. It then goes through these words and multiplies the frequency of each word by its correlation (from 0 to 1) to the main topic of the video, assigning this value as the 'score' of each word.
 4. Then, Athena calculates which sentences contain the highest scoring words, and outputs the top n for the user to read
 
+See YouTube Video in project description for more info
+
 # What is Athena For?
 
 Athena seeks to help students who are on a time-crunch during important study periods. Students are often given small 5 point assignments in classes that are to summarize or make some opinion of a video. Instead of taking 30-45 minutes watching these videos, students can simply use Athena to gain a basic understanding of the video.
@@ -24,3 +26,7 @@ Athena seeks to help students who are on a time-crunch during important study pe
 1. Updated Framework using HTML
 2. Optimization of the scoring algorithm to decrease waiting time
 3. Chrome Extension to work directly in your browser
+
+# Acheivements
+
+Won 'Best Usage of Google Cloud' in HackRU Spring 2022 @ Rutgers University
