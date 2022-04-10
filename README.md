@@ -1,5 +1,5 @@
 # What is Athena?
-Athena is a project built for HackRU Spring 2022. It algorithmically searches for the most important sentences in a YouTube video, and summarizes the video using these sentences.
+Athena is a project originally built for HackRU Spring 2022. It algorithmically searches for the most important sentences in a YouTube video, and summarizes the video using these sentences.
 
 # How Does It Work?
 Athena's Algorithm Works as Following:
