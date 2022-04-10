@@ -4,7 +4,7 @@ Athena is a project originally built for HackRU Spring 2022. It algorithmically 
 # How Does It Work?
 Athena's Algorithm Works as Following:
 
-1. Athena turns the mp3 of a YouTube video into a string transcript using Google Cloud's API
+1. Athena turns the mp3mp4/wav of a YouTube video into a string transcript using a Google Cloud API
 2. It then parses through the transcript and calculates the frequency of each word - counting similar words (play, plays, player, playing, etc.) as the same word.
 3. It then goes through these words and multiplies the frequency of each word by its correlation (from 0 to 1) to the main topic of the video, assigning this value as the 'score' of each word.
 4. Then, Athena calculates which sentences contain the highest scoring words, and outputs the top n for the user to read
